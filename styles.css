@@ -1,0 +1,22 @@
+body {
+    background-color: grey;
+}
+
+button {
+    background-color: cyan;
+    color: blue;
+    font-weight: bold;
+    height: 2.5em;
+    width: 4em;
+    border: 2px solid darkblue;
+
+}
+
+button:hover {
+    border-color: red;
+    color: red;
+}
+
+input {
+    height: 1.5em;
+}
